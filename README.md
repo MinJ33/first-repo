@@ -5,8 +5,7 @@ Hello, this is Minjee Kim and im beginner frontend developer
 ## Index
 
 -Installation
--How to Start
--Contributing
+-Formula by mathJax
 
 ##Installation
 
@@ -20,8 +19,8 @@ $ npm install
 $ npm start
 ```
 
-## Formula
+## Formula by mathJax
 
 $$ y=x+1 $$
 
-Or you can emphasize formula like $ y=x+1 $ . 
+Or, you can emphasize formula like $y=x+1$ . 
